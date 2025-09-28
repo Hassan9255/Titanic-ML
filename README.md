@@ -23,4 +23,4 @@ The notebook includes:
 ## 📊 Results
 - **Positive (Survival) Prediction Accuracy:** 76%
 
-Dataset source: Kaggle Titanic Competition
+Dataset source: [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic)
